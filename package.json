@@ -1,0 +1,31 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "MEAN STACK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassineakkari97/MEAN_STACK.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK"
+  ],
+  "author": "yassine akkari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassineakkari97/MEAN_STACK/issues"
+  },
+  "homepage": "https://github.com/yassineakkari97/MEAN_STACK#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+
+}
